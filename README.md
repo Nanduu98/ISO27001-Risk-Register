@@ -1,4 +1,5 @@
 ISO 27001 Risk Register
+
 This repository showcases a sample Information Security Risk Register and a Risk Matrix, aligned with the ISO/IEC 27001:2022 standard.
 
 It was created as part of a self-directed project to demonstrate understanding of risk management, Annex A control mapping, and treatment planning.
