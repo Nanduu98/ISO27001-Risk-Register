@@ -4,8 +4,8 @@ This repository showcases a sample Information Security Risk Register and a Risk
 
 It was created as part of a *self-directed project* to demonstrate understanding of risk management, Annex A control mapping, and treatment planning.
 
-# Contents
-## Sample_ISO27001_Risk_Register.xlsx Contains a risk register with:
+## Contents
+### Sample_ISO27001_Risk_Register.xlsx Contains a risk register with:
 
 Vulnerability
 
